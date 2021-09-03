@@ -21,6 +21,7 @@ ford.cars.append('Siera')
 ford.cars.append('Bakie')
 ford.cars.append('Bakie1')
 ford.cars.append('Bakie2')
+ford.cars.append('Bakie3')
 
 
 for car in ford:
